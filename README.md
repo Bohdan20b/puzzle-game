@@ -9,6 +9,10 @@ List of options available for users:
 * Check completion button - will check if current state of pieces are solved and the puzzles are solved.
 * Restore button - will restore the current state of pieces to original picture.
 * Help to solve - will try to solve the puzzle by aligning the pieces with similar colors on the edges of the pieces together.
+* <details><summary>Original Puzzle</summary>
+
+![Original](src/main/resources/screenshots/ScreenshotOriginal.png)
+</details>
 <details><summary>Shuffle</summary>
 
 ![Shuffle](src/main/resources/screenshots/ScreenshotShuffle.png)
@@ -44,5 +48,4 @@ List of options available for users:
 * **[JDK 11 or higher](https://www.oracle.com/cis/java/technologies/javase/jdk11-archive-downloads.html)**
 * **[Apache Maven](https://maven.apache.org/download.cgi)**
 * **[Java Swing](https://www.javatpoint.com/java-swing)**
-* 
 
