@@ -9,7 +9,7 @@ List of options available for users:
 * Check completion button - will check if current state of pieces are solved and the puzzles are solved.
 * Restore button - will restore the current state of pieces to original picture.
 * Help to solve - will try to solve the puzzle by aligning the pieces with similar colors on the edges of the pieces together.
-* <details><summary>Original Puzzle</summary>
+<details><summary>Original Puzzle</summary>
 
 ![Original](src/main/resources/screenshots/ScreenshotOriginal.png)
 </details>
